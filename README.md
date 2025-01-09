@@ -2,7 +2,7 @@
 # Overview
 This project focuses on the classification of different bean types using machine learning techniques. The model is trained to classify beans into the following categories:
 
-BARBUNYA 
+* BARBUNYA 
 
 BOMBAY
 
